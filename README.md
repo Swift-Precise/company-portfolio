@@ -22,7 +22,9 @@ Custom software development company specializing in Laravel, Vue.js, CRM, ERP, P
 
 ### Restaurant Management System
 
-Restaurant website and administration panel with menu management, customer management, and reporting.
+View Case Study:
+[Restaurant Management System](projects/restaurant-management-system.md)
+
 
 ### Modern CRM System
 
