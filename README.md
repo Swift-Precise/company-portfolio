@@ -22,25 +22,41 @@ Custom software development company specializing in Laravel, Vue.js, CRM, ERP, P
 
 ### Restaurant Management System
 
-View Case Study:
-[Restaurant Management System](projects/restaurant-management-system.md)
+Custom restaurant website and administration platform for managing menus, orders, customers, and restaurant operations.
 
+**View Case Study:** [Restaurant Management System](projects/restaurant-management-system.md)
+
+---
 
 ### Modern CRM System
 
 Customer relationship management platform with lead tracking, customer records, reporting, and workflow management.
 
+**View Case Study:** [Modern CRM System](projects/modern-crm-system.md)
+
+---
+
 ### Point of Sale (POS) System
 
 Business sales and inventory management system with billing, reporting, and operational controls.
+
+**View Case Study:** [POS System](projects/pos-system.md)
+
+---
 
 ### Travel Agency Management System
 
 Travel booking and management platform with package management, customer records, inquiries, and administration tools.
 
+**View Case Study:** [Travel Agency Management System](projects/travel-agency-management-system.md)
+
+---
+
 ### Business Management Solutions
 
 Custom software solutions developed for various industries including operations management, reporting, and process automation.
+
+**View Case Study:** [Business Management Solutions](projects/business-management-solutions.md)
 
 ## About Swift Precise
 
