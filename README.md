@@ -14,7 +14,9 @@ Custom software development company specializing in Laravel, Vue.js, CRM, ERP, P
 * Node js
 * React js
 * Python
-* Django 
+* Django
+* C#
+* .NET  
 
 ## Featured Projects
 
